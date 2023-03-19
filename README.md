@@ -1,8 +1,6 @@
 # interpreter
 
-An exercise that fills the below instructions:
-
-Implementing an Interpreter for a simple programming language called ALPL.
+Implementation of an Interpreter for a simple programming language called ALPL.
 
 The interpreter input is a text file containing the ALPL program, the interpreter should run the ALPL program.
 
