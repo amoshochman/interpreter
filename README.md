@@ -8,7 +8,7 @@ The interpreter input is a text file containing the ALPL program, the interprete
 
 Description + language rules:
 
-● The language only deals with positive or negative integer numbers </br>
+- The language only deals with positive or negative integer numbers </br>
 ● There are ten registers numbered R0 - R9, each register can hold an integer number</br>
 ● All the language tokens are in UPPERCASE</br>
 ● Each line includes exactly one command or label, there are no multiline commands</br>
