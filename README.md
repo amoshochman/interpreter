@@ -1,11 +1,13 @@
 # interpreter
 
-Programmer Recruit Test
+An exercise that fills the below instructions:
 
-In this test you will be required to write an Interpreter for a simple programming language called ALPL.
-The interpreter should be written in python, you can use any library/module that you want. The interpreter
-input is a text file containing the ALPL program, the interpreter should run the ALPL program.
-Here is a description and rules of the language:
+Implementing an Interpreter for a simple programming language called ALPL.
+
+The interpreter input is a text file containing the ALPL program, the interpreter should run the ALPL program.
+
+Description + language rules:
+
 ● The language only deals with positive or negative integer numbers
 ● There are ten registers numbered R0 - R9, each register can hold an integer number
 ● All the language tokens are in UPPERCASE
@@ -20,6 +22,7 @@ Here is a description and rules of the language:
 ● Left operand : register or integer
 ● Operator : + or * (plus or multiply) - optional
 ● Right operand: register or integer - required if operator exists
+
 2: The IF operator can be : =, <, > (equal to, less than, greater than)
 
 ![image](https://user-images.githubusercontent.com/36486045/226184243-4bb1f1f7-3251-4c54-8748-8b3ccc1136af.png)
